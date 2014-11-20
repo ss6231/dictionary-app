@@ -1,12 +1,6 @@
-package asg1;
+package dictionary-app;
 import java.util.*;
-/**
- * 
- * @author SanaSheikh
- * word: represents the user's string input
- * permutationArray: ArrayList that stores all the potential matches between prefix and dictionary entry
- * dictObj: dictionary object reference variable that will point to reference variable in the constructor
- */
+
 
 public class Letters  {
 	String word;
