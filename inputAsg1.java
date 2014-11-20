@@ -1,4 +1,4 @@
-package asg1;
+package dictionary-app;
 import java.util.*;
 public class inputAsg1 {
 
