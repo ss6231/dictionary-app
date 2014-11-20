@@ -1,15 +1,6 @@
-package asg1;
+package dictionary-app;
 import java.util.*;
 
-/**
- * 
- * @author SanaSheikh
- * scannerDict: represents the scanner type of the dictionary file
- * dictionaryArray: represents all the dictionary entries as an ArrayList
- * wordsInArray: represents all the definite matches between the permutations and dictionary entries. This 
- * 		ArrayList is unsorted and has duplicates
- *
- */
 	public class Dictionary {
 		Scanner scannerDict;
 		private ArrayList<String> dictionaryArray = new ArrayList<String>();
