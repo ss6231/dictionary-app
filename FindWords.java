@@ -1,9 +1,5 @@
-package asg1;
-/**
- * @author SanaSheikh
- * N14143085
- * NetID: ss6231
- */
+package dictionary-app;
+
 import java.util.*;
 import java.io.*;
 public class FindWords {
